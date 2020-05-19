@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KEZhzRmBrZoOYNv5y4EPRvzrVdkQrfAjMse83MszjCLh4JMGpzR3XcbfXk7C9BXejdhvra4bSdz8J/O1WsWJtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danie\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ANewApocalypsis\\ANewApocalypsis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danie\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

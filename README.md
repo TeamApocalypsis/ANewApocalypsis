@@ -1,2 +1,2 @@
-# ANewApocalypsis
-A erraria 
+# Apocalypsis
+Mod for Terraria

@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Danie\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ANewApocalypsis\\ANewApocalypsis.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Danie\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ANewApocalypsis\\ANewApocalypsis.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Danie\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ANewApocalypsis\\ANewApocalypsis.csproj",
+        "projectName": "ANewApocalypsis",
+        "projectPath": "C:\\Users\\Danie\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ANewApocalypsis\\ANewApocalypsis.csproj",
+        "packagesPath": "C:\\Users\\Danie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Danie\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ANewApocalypsis\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "tModLoader.CodeAssist": {
+              "target": "Package",
+              "version": "[0.1.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
