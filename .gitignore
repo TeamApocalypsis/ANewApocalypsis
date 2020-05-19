@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/VSWorkspaceState.json
+*.cache
+*.props
+ANewApocalypsis.csproj.nuget.dgspec.json
+project.assets.json
+.suo
+*.splite
