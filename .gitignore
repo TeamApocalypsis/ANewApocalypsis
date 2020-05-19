@@ -7,5 +7,5 @@
 *.props
 ANewApocalypsis.csproj.nuget.dgspec.json
 project.assets.json
-.suo
+*.suo
 *.splite
