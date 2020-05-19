@@ -8,4 +8,4 @@
 ANewApocalypsis.csproj.nuget.dgspec.json
 project.assets.json
 *.suo
-*.splite
+*.sqlite
